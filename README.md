@@ -65,6 +65,8 @@ A user row must exist to generate tokens, e.g.:
 
 ```sql
 INSERT INTO user (email) VALUES ('himanshu@gmail.com');
+INSERT INTO user (email) VALUES ('prayas@gmail.com');
+INSERT INTO user (email) VALUES ('purujit@gmail.com');
 ```
 
 ---
