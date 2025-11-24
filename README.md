@@ -1,7 +1,7 @@
 
 # 🚀 NestJS JWT Authentication API
 
-A production-ready **NestJS authentication service** that generates and validates JWT tokens using a **MySQL database** for user validation.
+A **NestJS authentication service** that generates and validates JWT tokens using a **MySQL database** for user validation.
 
 This project is fully deployed and accessible online.
 
